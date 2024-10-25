@@ -12,8 +12,6 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
 <h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
 <h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">TCS</h1>
 	
 	
