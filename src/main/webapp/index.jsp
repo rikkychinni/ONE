@@ -8,10 +8,10 @@
 	<h1 style="color: green; font-size: 40px;" align="center">9059899879</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
-	<h1 style="color: violet; font-size: 40px;" align="center">RAVI CHINNI</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">RIKKY CHINNI</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">RIKKY RIKKY</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">RIKky Rikky</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">CHINNI</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center"> CHINNI</h1>
+<h1 style="color: pink; font-size: 40px;" align="center">CHINNI</h1>
+<h1 style="color: pink; font-size: 40px;" align="center">CHINNI</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">TCS</h1>
 	
 	
